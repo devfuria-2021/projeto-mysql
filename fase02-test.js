@@ -23,6 +23,7 @@ const doSomething = require("./fase02");
 
 doSomething((result) => {
     console.log(result);
+    
 });
 
 
